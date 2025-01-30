@@ -141,7 +141,7 @@ environment=PYTHONUNBUFFERED=1
 | API 地址            | 描述               |
 | ------------------- | ------------------ |
 | `/wr.py`            | 微信公众号消息处理 |
-| `/zhipu_ai_chat`.py | 智普AI 对话        |
+| `/zhipu_ai_chat.py` | 智普AI 对话        |
 | `/v1/recognition/`  | BERT 语义匹配      |
 | `/v1/main_serve/`   | 命名实体识别       |
 
