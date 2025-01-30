@@ -145,17 +145,7 @@ environment=PYTHONUNBUFFERED=1
 | `/v1/recognition/`  | BERT 语义匹配      |
 | `/v1/main_serve/`   | 命名实体识别       |
 
-## 5. 贡献指南
-
-如需贡献代码，请遵循以下流程：
-
-1. Fork 本项目
-2. 创建新分支：`git checkout -b feature-new`
-3. 提交代码：`git commit -m '新增功能'`
-4. Push 到远程仓库：`git push origin feature-new`
-5. 提交 PR（Pull Request）
-
-## 6. 许可证
+## 5. 许可证
 
 本项目基于 MIT 许可证发布，可自由使用和修改。
 
