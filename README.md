@@ -156,6 +156,3 @@ environment=PYTHONUNBUFFERED=1
 
 本项目基于 MIT 许可证发布，可自由使用和修改。
 
-------
-
-如有问题，请联系 haoyue@svipdagr.com。
